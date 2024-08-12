@@ -1,0 +1,99 @@
+Compiling your contracts...
+===========================
+✓ Fetching solc version list from solc-bin. Attempt #1
+> Everything is up to date, there is nothing to compile.
+
+
+Starting migrations...
+======================
+> Network name:    'glide'
+> Network id:      901
+> Block gas limit: 30000000 (0x1c9c380)
+
+
+1_deploy.js
+===========
+
+   Deploying 'Types'
+   -----------------
+   > transaction hash:    0xdfc9e1922c58f0cfdecd6cc775110a34a5ebdb0df95b0a75e7d4d17cc15eddce
+   > Blocks: 0            Seconds: 0
+   > contract address:    0xCABEe62adFB2a4d4172Fc2F7536f324FC52C274a
+   > block number:        73525
+   > block timestamp:     1723449332
+   > account:             0xBcd4042DE499D14e55001CcbB24a551F3b954096
+   > balance:             10000109987.999819389784846629
+   > gas used:            72227 (0x11a23)
+   > gas price:           2.500000001 gwei
+   > value sent:          0 ETH
+   > total cost:          0.000180567500072227 ETH
+
+   Pausing for 1 confirmations...
+
+   -------------------------------
+   > confirmation number: 2 (block: 73528)
+
+   Deploying 'Users'
+   -----------------
+   > transaction hash:    0xd7ab689f95fd982572b775508baa792b9c0818d60ace33af4d1eba7c13ef65d9
+   > Blocks: 2            Seconds: 4
+   > contract address:    0xD89c1432EaA169C54dC7610C744c68a2F4b6B3e5
+   > block number:        73531
+   > block timestamp:     1723449344
+   > account:             0xBcd4042DE499D14e55001CcbB24a551F3b954096
+   > balance:             10000109987.999651709784766995
+   > gas used:            67072 (0x10600)
+   > gas price:           2.500000001 gwei
+   > value sent:          0 ETH
+   > total cost:          0.000167680000067072 ETH
+
+   Pausing for 1 confirmations...
+
+   -------------------------------
+   > confirmation number: 2 (block: 73534)
+
+   Deploying 'Products'
+   --------------------
+   > transaction hash:    0xf55b0b472635b869ba4bc68be3863258b991e0231825bef6f7c14bb14b5c5fe3
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x4425918ff69Fe214AC093710cF41216AE9149c3A
+   > block number:        73536
+   > block timestamp:     1723449354
+   > account:             0xBcd4042DE499D14e55001CcbB24a551F3b954096
+   > balance:             10000109987.999484029784687361
+   > gas used:            67072 (0x10600)
+   > gas price:           2.500000001 gwei
+   > value sent:          0 ETH
+   > total cost:          0.000167680000067072 ETH
+
+   Pausing for 1 confirmations...
+
+   -------------------------------
+   > confirmation number: 2 (block: 73539)
+
+   Deploying 'SupplyChain'
+   -----------------------
+   > transaction hash:    0xeaec0cbded4a124cf30d1c7d405b20b0c24a8fa961b46991405d9fbbfbfa6aa9
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x58c1c343c185Aa5CD3c2Cc1c2b7d7bD055F1bf98
+   > block number:        73541
+   > block timestamp:     1723449364
+   > account:             0xBcd4042DE499D14e55001CcbB24a551F3b954096
+   > balance:             10000109987.989491122279799311
+   > gas used:            3997163 (0x3cfdeb)
+   > gas price:           2.500000001 gwei
+   > value sent:          0 ETH
+   > total cost:          0.009992907503997163 ETH
+
+   Pausing for 1 confirmations...
+
+   -------------------------------
+   > confirmation number: 2 (block: 73543)
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.010508835004203534 ETH
+
+Summary
+=======
+> Total deployments:   4
+> Final cost:          0.010508835004203534 ETH
